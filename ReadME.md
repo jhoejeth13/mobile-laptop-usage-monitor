@@ -68,10 +68,14 @@ A warning message "PHONE/LAPTOP DETECTED!" appears on-screen.
 🔹 Ensure good lighting for better hand tracking.
 🔹 Adjust the detection threshold in monitor.py.
 
+---
+
 📌 Future Improvements
 ✅ Capture a screenshot when a phone is detected
 ✅ Log detections with timestamps
 ✅ Send a notification to the teacher
+
+---
 
 👨‍💻 Author
 Developed by Good Bitches 🚀
