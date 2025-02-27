@@ -70,12 +70,12 @@ A warning message "PHONE/LAPTOP DETECTED!" appears on-screen.
 
 ---
 
-📌 Future Improvements
-✅ Capture a screenshot when a phone is detected
-✅ Log detections with timestamps
-✅ Send a notification to the teacher
+# 📌 Future Improvements
+### **✅ Capture a screenshot when a phone is detected
+### **✅ Log detections with timestamps
+### **✅ Send a notification to the teacher
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
 Developed by Good Bitches 🚀
